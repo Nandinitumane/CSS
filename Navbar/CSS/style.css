@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background: rgb(60, 71, 103);
+
+}
+
+ul {
+    display: flex;
+    padding: 26px;
+    justify-content: end;
+}
+
+li {
+    margin-right: 28px;
+    list-style: none;
+
+}
+
+a {
+    color: #d1cccc;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+a:hover{
+    color: aliceblue;
+}
